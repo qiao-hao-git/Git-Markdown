@@ -4,10 +4,6 @@
 
 [Pro Git（中文版）](http://git.oschina.net/progit/)
 
-[撸袖子 动手学Git 专治菜鸟](http://igit.linuxtoy.org/contents.html)
-
-[Git 远程操作详解 阮一峰](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
-
 [fork 后如何跟上源 repo 的变化](https://segmentfault.com/q/1010000002590371)
 
 # Markdown
@@ -15,7 +11,7 @@
 [Markdown入门指南](http://www.jianshu.com/p/1e402922ee32)
 
 
-# C语言资料(自己也没看完..)
+# C语言资料
 
 [C语言资源大全中文版](https://github.com/jobbole/awesome-c-cn)
 
