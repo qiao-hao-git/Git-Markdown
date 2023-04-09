@@ -22,4 +22,8 @@
 
 [免费的编程书籍](https://github.com/wwj718/free-programming-books-zh_CN)
 
+# 初学者代码风格
+
+[可以参考代码随想录](https://programmercarl.com/%E5%89%8D%E5%BA%8F/%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC.html#%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
+
 ## 后续会继续补充新资源
