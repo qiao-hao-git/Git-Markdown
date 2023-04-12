@@ -8,10 +8,10 @@
 
 # Markdown
 
-[Markdown入门指南](http://www.jianshu.com/p/1e402922ee32)
+[Markdown入门](https://github.com/younghz/Markdown)
 
 
-# C语言资料
+# C语言
 
 [C语言资源大全中文版](https://github.com/jobbole/awesome-c-cn)
 
